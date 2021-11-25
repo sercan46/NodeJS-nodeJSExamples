@@ -1,6 +1,6 @@
 # Examples
 
-NodeJS ile ilgili örneklerimin bulunduğu proje.
+The project with my NodeJS related examples.
 
 ## To start the project
 
